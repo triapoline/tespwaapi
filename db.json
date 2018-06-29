@@ -1,0 +1,24 @@
+{"product" : [
+
+{"id":1,"name":"King vulture","category":"Khaki"},
+{"id":2,"name":"Swallow (unidentified)","category":"Puce"},
+{"id":3,"name":"Sage hen","category":"Green"},
+{"id":4,"name":"Spotted wood sandpiper","category":"Turquoise"},
+{"id":5,"name":"Squirrel, pine","category":"Violet"},
+{"id":6,"name":"Springhare","category":"Fuscia"},
+{"id":7,"name":"Golden eagle","category":"Khaki"},
+{"id":8,"name":"Creeper, black-tailed tree","category":"Turquoise"},
+{"id":9,"name":"White-fronted bee-eater","category":"Khaki"},
+{"id":10,"name":"Wild water buffalo","category":"Yellow"},
+{"id":11,"name":"Seal, northern fur","category":"Yellow"},
+{"id":12,"name":"Coatimundi, white-nosed","category":"Goldenrod"},
+{"id":13,"name":"Crab, sally lightfoot","category":"Crimson"},
+{"id":14,"name":"African polecat","category":"Teal"},
+{"id":15,"name":"Red-billed buffalo weaver","category":"Indigo"},
+{"id":16,"name":"Southern hairy-nosed wombat","category":"Puce"},
+{"id":17,"name":"White-eye, pale","category":"Blue"},
+{"id":18,"name":"European spoonbill","category":"Mauv"},
+{"id":19,"name":"Eastern boa constrictor","category":"Puce"},
+{"id":20,"name":"Kookaburra, laughing","category":"Violet"}
+
+]}
